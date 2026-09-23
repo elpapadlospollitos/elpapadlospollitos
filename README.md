@@ -1,5 +1,7 @@
 ## Hi there :sunglasses:
 
+<img src="BladeR.png" width="100%" alt="Banner de Perfil">
+
 <!--
 **elpapadlospollitos/elpapadlospollitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
