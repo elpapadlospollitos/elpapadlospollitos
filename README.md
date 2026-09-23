@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br/>
+
+<a href="https://git.io">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
 💻 Firmware Developer | IoT | Embedded Systems
 
 🔧 APIs • Firmware • Data Integration
