@@ -17,13 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br/>
-
-<a href="https://git.io">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</a>
-
-<br/><br/>
+https://readme-typing-svg.demolab.com/demo/?font=Permanent+Marker&weight=300&color=F7B433&center=true&lines=Software+-+Firmware+-+Hardware;Embedded+Systems+Design;Developing+from+Silicon+to+Cloud;Focusing+on+Clean+Architecture
 
 💻 Firmware Developer | IoT | Embedded Systems
 
